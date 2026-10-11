@@ -80,5 +80,3 @@ The validation split is declared in the notebook but is not used for checkpoint 
 - [Multimodal_Human_Activity_Recognition.ipynb](Multimodal_Human_Activity_Recognition.ipynb) — experiment and recorded results.
 - [requirements.txt](requirements.txt) — notebook dependencies.
 - `.gitignore` — excludes local environments, sensor data, caches, and model artifacts.
-
-All rights reserved. Dataset and third-party rights remain separate.
